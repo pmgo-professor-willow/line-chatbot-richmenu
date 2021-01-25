@@ -1,0 +1,15 @@
+x,y,width,height,type,label,data,displayText
+630,75,292,292,postback,raid-1-tier,raidTier=1,請告訴我有哪些一星團體戰？
+1006,75,292,292,postback,raid-3-tier,raidTier=3,請告訴我有哪些三星團體戰？
+1382,75,292,292,postback,raid-5-tier,raidTier=5,請告訴我有哪些五星團體戰？
+1758,75,292,292,postback,raid-mega-tier,raidTier=mega,請告訴我有哪些 MEGA 團體戰？
+630,515,256,256,postback,egg-2km,egg=2km,目前的兩公里蛋可以孵到什麼寶可夢？
+921,515,256,256,postback,egg-5km,egg=5km,目前的五公里蛋可以孵到什麼寶可夢？
+1212,515,256,256,postback,egg-7km,egg=7km,目前的七公里蛋可以孵到什麼寶可夢？
+1502,515,256,256,postback,egg-10km,egg=10km,目前的十公里蛋可以孵到什麼寶可夢？
+1793,515,256,256,postback,egg-12km,egg=12km,目前的十二公里蛋可以孵到什麼寶可夢？
+443,1496,287,119,postback,events,event=current,目前有哪些活動正在進行？
+0,843,823,843,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
+823,843,845,843,postback,researches,researches=now,最近的田野調查課題有哪些？
+1668,843,832,843,postback,channels,channels=list,我想看最新的 Pokemon GO 影片
+2139,0,361,843,postback,faq,faq=true,
