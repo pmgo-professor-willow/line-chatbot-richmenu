@@ -1,8 +1,8 @@
 {
-  "name": "pmgo-professor-willow",
+  "name": "line-chatbot-richmenu",
   "version": "0.1.0",
   "description": "",
-  "repository": "https://github.com/wazho/pmgo-professor-willow",
+  "repository": "https://github.com/pmgo-professor-willow/line-chatbot-richmenu",
   "author": "Ze-Hao Wang",
   "license": "MIT",
   "dependencies": {
