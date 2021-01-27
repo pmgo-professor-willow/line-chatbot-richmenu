@@ -5,6 +5,9 @@
   "repository": "https://github.com/pmgo-professor-willow/line-chatbot-richmenu",
   "author": "Ze-Hao Wang",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
   "dependencies": {
     "@line/bot-sdk": "^7.2.0",
     "csv-parse": "^4.15.0",
