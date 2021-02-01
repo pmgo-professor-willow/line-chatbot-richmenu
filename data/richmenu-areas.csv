@@ -12,4 +12,4 @@ x,y,width,height,type,label,data,displayText
 0,843,823,843,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
 823,843,845,843,postback,researches,researches=now,最近的田野調查課題有哪些？
 1668,843,832,843,postback,channels,channels=list,我想看最新的 Pokemon GO 影片
-2139,0,361,843,postback,faq,faq=true,
+2139,0,361,843,postback,faq,faq=list,
