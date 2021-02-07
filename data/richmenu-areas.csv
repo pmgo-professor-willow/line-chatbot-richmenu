@@ -8,8 +8,9 @@ x,y,width,height,type,label,data,displayText
 1212,515,256,256,postback,egg-7km,egg=7km,目前的七公里蛋可以孵到什麼寶可夢？
 1502,515,256,256,postback,egg-10km,egg=10km,目前的十公里蛋可以孵到什麼寶可夢？
 1793,515,256,256,postback,egg-12km,egg=12km,目前的十二公里蛋可以孵到什麼寶可夢？
-443,1496,287,119,postback,events,event=current,目前有哪些活動正在進行？
-0,843,823,843,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
-823,843,845,843,postback,researches,researches=now,最近的田野調查課題有哪些？
+1308,977,287,119,postback,events,event=list,目前有哪些活動正在進行？
+0,843,1668,394,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
+0,1237,834,449,postback,researches,researches=now,目前的田野調查課題有哪些？
+834,1237,834,449,postback,rocketInvasion,rocketInvasion=list,目前的火箭隊陣容有哪些？
 1668,843,832,843,postback,channels,channels=list,我想看最新的 Pokemon GO 影片
 2139,0,361,843,postback,faq,faq=list,
