@@ -1,6 +1,6 @@
 x,y,width,height,type,label,data,displayText
-630,75,292,292,postback,raid-1-tier,raidTier=1,請告訴我有哪些一星團體戰？
-1006,75,292,292,postback,raid-3-tier,raidTier=3,請告訴我有哪些三星團體戰？
+630,75,292,292,postback,raid-1-2-tier,"raidTier=1,2",請告訴我有哪些一、二星團體戰？
+1006,75,292,292,postback,raid-3-4-tier,"raidTier=3,4",請告訴我有哪些三、四星團體戰？
 1382,75,292,292,postback,raid-5-tier,raidTier=5,請告訴我有哪些五星團體戰？
 1758,75,292,292,postback,raid-mega-tier,raidTier=mega,請告訴我有哪些 MEGA 團體戰？
 567,533,224,224,postback,egg-2km,egg=2km,目前的兩公里蛋可以孵到什麼寶可夢？
