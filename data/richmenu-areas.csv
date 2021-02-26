@@ -1,18 +1,10 @@
 x,y,width,height,type,label,data,displayText
-630,75,292,292,postback,raid-1-2-tier,"raidTier=1,2",請告訴我有哪些一、二星團體戰？
-1006,75,292,292,postback,raid-3-4-tier,"raidTier=3,4",請告訴我有哪些三、四星團體戰？
-1382,75,292,292,postback,raid-5-tier,raidTier=5,請告訴我有哪些五星團體戰？
-1758,75,292,292,postback,raid-mega-tier,raidTier=mega,請告訴我有哪些 MEGA 團體戰？
-567,533,224,224,postback,egg-2km,egg=2km,目前的兩公里蛋可以孵到什麼寶可夢？
-797,533,224,224,postback,egg-5km,egg=5km,目前的五公里蛋可以孵到什麼寶可夢？
-1027,533,224,224,postback,egg-7km,egg=7km,目前的七公里蛋可以孵到什麼寶可夢？
-1256,533,224,224,postback,egg-10km,egg=10km,目前的十公里蛋可以孵到什麼寶可夢？
-1486,533,224,224,postback,egg-12km,egg=12km,目前的十二公里蛋可以孵到什麼寶可夢？
-1727,533,178,224,postback,egg-5km-sync,egg=時時刻刻冒險 5km,目前的時時刻刻冒險五公里蛋可以孵到什麼寶可夢？
-1906,533,178,224,postback,egg-10km-sync,egg=時時刻刻冒險 10km,目前的時時刻刻冒險十公里蛋可以孵到什麼寶可夢？
-1308,977,287,119,postback,events,event=list,目前有哪些活動正在進行？
-0,843,1668,394,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
-0,1237,834,449,postback,researches,research=list,目前的田野調查課題有哪些？
-834,1237,834,449,postback,rocketInvasions,rocketInvasion=list,目前的火箭隊陣容有哪些？
-1668,843,832,843,postback,channels,channel=list,我想看最新的 Pokemon GO 影片
-2139,0,361,843,postback,faq,faq=list,
+0,0,2082,421,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
+1584,0,498,421,postback,events,event=list,目前有哪些活動正在進行？
+0,421,1250,422,postback,channels,channel=list,我想看最新的 Pokemon GO 影片
+1250,421,1250,422,postback,officialPosts,officialPost=list,請告訴官方進行公告了哪些活動？
+0,843,1250,422,postback,raidTiers,raidTier=list,請告訴我有哪些團體戰？
+1250,843,1250,422,postback,eggs,egg=list,目前的寶可夢蛋可以孵到哪些寶可夢？
+0,1264,1250,422,postback,researches,research=list,目前的田野調查課題有哪些？
+1250,1264,1250,422,postback,rocketInvasions,rocketInvasion=list,目前的火箭隊陣容有哪些？
+2082,0,418,418,postback,faq,faq=list,
