@@ -1,6 +1,6 @@
 x,y,width,height,type,label,data,displayText
-0,0,2082,421,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
 1584,0,498,421,postback,events,event=list,目前有哪些活動正在進行？
+0,0,2082,421,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
 0,421,1250,422,postback,channels,channel=list,我想看最新的 Pokemon GO 影片
 1250,421,1250,422,postback,officialPosts,officialPost=list,官方近期公告了哪些活動？
 0,843,1250,422,postback,raidTiers,raidTier=list,目前的團體戰有哪些？
