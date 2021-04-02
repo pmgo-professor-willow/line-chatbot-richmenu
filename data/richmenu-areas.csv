@@ -1,10 +1,11 @@
 x,y,width,height,type,label,data,displayText
-1584,0,498,421,postback,events,event=list,目前有哪些活動正在進行？
-0,0,2082,421,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
-0,421,1250,422,postback,channels,channel=list,我想看最新的 Pokemon GO 影片
-1250,421,1250,422,postback,officialPosts,officialPost=list,官方近期公告了哪些活動？
-0,843,1250,422,postback,raidTiers,raidTier=list,目前的團體戰有哪些？
-1250,843,1250,422,postback,eggs,egg=list,目前的寶可夢蛋可以孵到哪些寶可夢？
-0,1264,1250,422,postback,researches,research=list,目前的田野調查課題有哪些？
-1250,1264,1250,422,postback,rocketInvasions,rocketInvasion=list,目前的火箭隊陣容有哪些？
-2082,0,418,418,postback,faq,faq=list,
+1644,0,521,337,postback,events,event=list,目前有哪些活動正在進行？
+0,0,2161,337,postback,graphics,graphics=@pokemongojiang,近期內有哪些活動？
+0,337,1250,337,postback,channels,channel=list,我想看最新的 Pokemon GO 影片
+1250,337,1250,337,postback,officialPosts,officialPost=list,官方近期公告了哪些活動？
+0,674,1250,337,postback,raidTiers,raidTier=list,目前的團體戰有哪些？
+1250,674,1250,337,postback,eggs,egg=list,目前的寶可夢蛋可以孵到哪些寶可夢？
+0,1011,1250,337,postback,researches,research=list,目前的田野調查課題有哪些？
+1250,1011,1250,337,postback,rocketInvasions,rocketInvasion=list,目前的火箭隊陣容有哪些？
+2165,0,335,335,postback,faq,faq=list,
+0,1348,2500,338,uri,,https://google.com/,

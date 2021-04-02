@@ -45,12 +45,18 @@ const createRichMenu = async (name: string, chatBarText: string) => {
         width: parseInt(areaRaw.width),
         height: parseInt(areaRaw.height),
       },
-      action: {
-        type: areaRaw.type,
-        label: areaRaw.label,
-        data: areaRaw.data,
-        displayText: areaRaw.displayText,
-      },
+      action: areaRaw.type === 'uri'
+        ? {
+          type: areaRaw.type,
+          uri: areaRaw.data,
+          altUri: areaRaw.displayText,
+        }
+        : {
+          type: areaRaw.type,
+          label: areaRaw.label,
+          data: areaRaw.data,
+          displayText: areaRaw.displayText,
+        },
     })),
   });
 
