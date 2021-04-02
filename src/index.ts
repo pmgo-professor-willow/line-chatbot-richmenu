@@ -49,7 +49,6 @@ const createRichMenu = async (name: string, chatBarText: string) => {
         ? {
           type: areaRaw.type,
           uri: areaRaw.data,
-          altUri: areaRaw.displayText,
         }
         : {
           type: areaRaw.type,
