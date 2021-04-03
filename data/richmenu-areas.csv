@@ -8,4 +8,4 @@ x,y,width,height,type,label,data,displayText
 0,1011,1250,337,postback,researches,research=list,目前的田野調查課題有哪些？
 1250,1011,1250,337,postback,rocketInvasions,rocketInvasion=list,目前的火箭隊陣容有哪些？
 2165,0,335,335,postback,faq,faq=list,
-0,1348,2500,338,uri,,https://google.com/,
+0,1348,2500,338,uri,,https://liff.line.me/1655824079-2pYQarQl,
